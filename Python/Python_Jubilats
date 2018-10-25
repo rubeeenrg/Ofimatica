@@ -6,10 +6,10 @@
 6	if(edad=="jubilat"):
 7	    print("No paga")
 8	if(edad=="no_jubilat"):
-9	    print("1€")
+9	    print("1")
 10	if(dona=="cabell_ros"):
 11	    print("No paga")
 12	if(dona=="cabell_de_diferent_color"):
-13	    print("050€")
+13	    print("050")
 14	if((edad<5) or (edad>=65)):
 15	    print("No paga")
