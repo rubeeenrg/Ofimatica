@@ -24,5 +24,18 @@ Alfanumèriques: 8,"hola"...
 DATEDIF: Ens serveix per poder fer càlculs amb diferents intervals de temps.
 NOW (): Ens permet completar el DATEDIF, ens diu a quin dia estem, edat mes i any.
 TODAY (): És més completa que el "NOW()", ja que també ens diu hores, segons i minuts.
-IF: És una comanda molt útil per poder fer-la servir en el full de càlcul, o també en el python, necessitem condicions, variables, i saber fer els
+IF: És una comanda molt útil per poder fer-la servir en el full de càlcul, o també en el python. Necessitem condicions, variables, i saber fer els
 esquemes a paper.
+Descompte: Ens serveix per calcular el descompte real que haurem de pagar, hi ha dos fòrmules:
+Llarga: Preu*1-(Preu*0,14)
+Curta: Preu*(1-0,14)
+       Preu*0,86
+Recàrrec: El recàrrec ens serveix per saber quant d'import extra haurem de pagar.
+Fòrmula: Preu+(Preu*0,14)
+         (Preu*1)+(Preu*0,14)
+          Preu*1,14
+Día sense IVA: Ens permet saber quant val en realitat alguna cosa, i sabrem si les espectatives s'estànm cumplit o no, ja que també sabrem quant d'IVA afegeixen al preu orginal.
+Fòrmula: Preu Net+IVA
+         Preu Net+(Preu Net*0,21)=P.V.P
+         100+(100*0,21)=100+21
+         100/121=82,6€.
