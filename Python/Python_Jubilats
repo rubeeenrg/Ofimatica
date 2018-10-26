@@ -2,7 +2,6 @@
 2	no_jubilats=int(input("Indica quant paguen:"))
 3	dones_cabell_ros=input("Indica si paguen o no:")
 4	dones_cabell_de_diferent_color=int(input("Indica quant paguen:"))
-5	homes_i_dones=int(input("Indica la edad per saber si paguen o no:"))
 6	if(edad=="jubilat"):
 7	    print("No paga")
 8	if(edad=="no_jubilat"):
@@ -11,5 +10,3 @@
 11	    print("No paga")
 12	if(dona=="cabell_de_diferent_color"):
 13	    print("050")
-14	if((edad<5) or (edad>=65)):
-15	    print("No paga")
