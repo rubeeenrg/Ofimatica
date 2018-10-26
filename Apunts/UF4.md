@@ -1,5 +1,7 @@
 Diferents comandes per el full de càlcul (explicacions en algunes):
+
 F11: + espai per treballar.
+
 Control compacte: la misma funció que el F11.
 Pantalla Completa
 CTRL+INTRO en una cel·la
