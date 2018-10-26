@@ -24,9 +24,12 @@ Alineació de text: Esquerra, centre, dreta; a dalt, en mig o a sota.
 
 Llistes de distribució (Google Groups): Ens permet millorar la comuncacio entre companys, o bé ente companys i professors. Hi ha 4 tipus:
 Llistes de correu elèctronic
+
 Fòrum Web
+
 Fòrum de preguntes i respotes
-Safata d'entrada col·laborativa._
+
+Safata d'entrada col·laborativa.
 
 Mitjana ponderada: Ens permet diferenciar el pes de per exemple, diferents resultats o notes d'algú, així sabrem quin resultat o nota té mes pes.
 
@@ -57,11 +60,17 @@ Curta: Preu*(1-0,14)
 Recàrrec: El recàrrec ens serveix per saber quant d'import extra haurem de pagar.
 
 Fòrmula: Preu+(Preu*0,14)
+
          (Preu*1)+(Preu*0,14)
+         
           Preu*1,14
           
 Día sense IVA: Ens permet saber quant val en realitat alguna cosa, i sabrem si les espectatives s'estànm cumplit o no, ja que també sabrem quant d'IVA afegeixen al preu orginal.
+
 Fòrmula: Preu Net+IVA
+
          Preu Net+(Preu Net*0,21)=P.V.P
+         
          100+(100*0,21)=100+21
+         
          100/121=82,6€.
