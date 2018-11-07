@@ -8,4 +8,4 @@ else:
         print("Para llegar al anyo_cualquiera","faltan 5 años")
     else:
         if(anyo_actual==2015)and(anyo_cualquiera==1997):
-           print("Desde el año_cualquiera","han pasado 18 años")
+           print("Desde el año_cualquiera","han pasado 17 años")
