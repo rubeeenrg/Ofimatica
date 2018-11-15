@@ -1,0 +1,7 @@
+#coding:utf -8
+mano_derecha="bocadillo"
+mano_izquierda="movil"
+mano_extra=mano_derecha
+mano_derecha=mano_izquierda
+mano_izquierda=mano_extra
+print("mano derecha",mano_derecha,"mano izquierda",mano_izquierda)
