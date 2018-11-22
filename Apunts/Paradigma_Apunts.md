@@ -1,4 +1,4 @@
--*Paradigma*- (llegir, variables, lloc de proves, paper, probar, retocar i tornar a provar)
+*Paradigma* (llegir, variables, lloc de proves, paper, probar, retocar i tornar a provar)
 
 *Llegir:* Llegir d'una forma comprensiva els requerimients.
 
