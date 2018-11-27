@@ -1,6 +1,6 @@
 ENTRADA           SALIDA
 
--30               No lee
+-30                        No lee
 
 -11               No lee
 
